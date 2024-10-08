@@ -1,0 +1,16 @@
+.statistics {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.statistics h2 {
+    margin-bottom: 20px;
+}
+
+.statistics div {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
